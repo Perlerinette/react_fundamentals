@@ -4,6 +4,7 @@ const Footer = () => {
 
     return(
         <>
+        {/* eslint-disable-next-line */}
         &copy; {theDate} - Copyright: <a target="_blank" href="https://www.mdbootstrap.com"> Laurine Leung</a>
 
         </>
